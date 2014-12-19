@@ -1,6 +1,7 @@
 # 2014/11/27  
 ## 1. イントロダクション  
 担当:pasora  
+[スライド](http://www.slideshare.net/pasora1/tcp-ip-42334789)
 # 2014/12/04
 ## 2. リンク層
 担当:hoshikyu

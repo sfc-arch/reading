@@ -45,7 +45,8 @@
 ---
 # 2015/01/22  
 ## 11. UDP:ユーザー・データグラム・プロトコル
-担当:seibe  
+担当:seibe
+[スライド (PDF)](https://web.sfc.wide.ad.jp/~seibe/tcp-ip/150108_TCP-IP%e8%bc%aa%e8%ac%9b%e4%bc%9a.pdf)
 ## 15. TFTP:トリビアル・ファイル転送プロトコル  
 担当:pasora  
 ## 16. BOOTP:ブートストラップ・プロトコル  

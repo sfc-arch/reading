@@ -14,8 +14,10 @@
 担当:naohiro
 ## 4. ARP:アドレス解決プロトコル  
 担当:demmy
+[スライド (PDF)](http://web.sfc.wide.ad.jp/~demmy/vol1/arp-rarp.pdf)
 ## 5. RARP:逆アドレス解決プロトコル
 担当:demmy
+[スライド (PDF)](http://web.sfc.wide.ad.jp/~demmy/vol1/arp-rarp.pdf)
 
 # 2014/12/18  
 ## 6. ICMP:インターネット・コントロール・メッセージ・プロトコル  

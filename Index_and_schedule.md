@@ -43,6 +43,7 @@
 担当:cookie  
 ## 14. DNS:ドメイン・ネーム・プロトコル  
 担当:gucchan  
+[スライド(PDF)](http://web.sfc.wide.ad.jp/~gucchan/slide/dns.pdf)  
 
 ---
 # 2015/01/22  

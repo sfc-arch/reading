@@ -1,7 +1,7 @@
 # 2014/11/27  
 ## 1. イントロダクション  
 担当:pasora  
-[スライド](http://www.slideshare.net/pasora1/tcp-ip-42334789)
+[スライド(slideshare)](http://www.slideshare.net/pasora1/tcp-ip-42334789)
 
 # 2014/12/04
 ## 2. リンク層
@@ -52,8 +52,10 @@
 [スライド (PDF)](https://web.sfc.wide.ad.jp/~seibe/tcp-ip/150108_TCP-IP%e8%bc%aa%e8%ac%9b%e4%bc%9a.pdf)
 ## 15. TFTP:トリビアル・ファイル転送プロトコル  
 担当:pasora  
+[スライド(slideshare)](http://www.slideshare.net/pasora1/tftp-44194886)  
 ## 16. BOOTP:ブートストラップ・プロトコル  
 担当:pasora  
+[スライド(slideshare)](http://www.slideshare.net/pasora1/arch-tcpip-bootp)  
 
 ---
 ## 17. TCP:トランスミッション・コントロール・プロトコル  

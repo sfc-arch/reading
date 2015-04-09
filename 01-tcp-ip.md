@@ -44,6 +44,7 @@ Arch 2014年度 秋学期 輪講会
 
 ### 3. IP:インターネット・プロトコルその1
 担当:shunkin
+[スライド(pdf)](http://web.sfc.wide.ad.jp/~shunkin/slide.pdf)
 
 2014/12/11
 --------

@@ -12,9 +12,9 @@
 # 2014/12/11
 ## 3. IP:インターネット・プロトコルその2
 担当:naohiro
+
 ## 4. ARP:アドレス解決プロトコル  
 担当:demmy
-[スライド (PDF)](http://web.sfc.wide.ad.jp/~demmy/vol1/arp-rarp.pdf)
 ## 5. RARP:逆アドレス解決プロトコル
 担当:demmy
 [スライド (PDF)](http://web.sfc.wide.ad.jp/~demmy/vol1/arp-rarp.pdf)
@@ -24,6 +24,7 @@
 担当:miyukki
 ## 7. Ping プログラム  
 担当:miyukki
+[スライド（PDF）](http://web.sfc.wide.ad.jp/~miyukki/rg/20141218.pdf)
 
 # 2014/12/25
 ## 8. Traceroute プログラム  

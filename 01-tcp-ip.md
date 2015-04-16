@@ -93,6 +93,7 @@ Arch 2014年度 秋学期 輪講会
 --------
 ### 13. IGMP:インターネット・グループ・マネジメント・プロトコル
 担当:cookie
+[スライド(PDF)](http://web.sfc.wide.ad.jp/~cookie/IGMP.pdf)
 
 ### 14. DNS:ドメイン・ネーム・プロトコル
 担当:gucchan

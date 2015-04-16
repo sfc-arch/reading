@@ -78,6 +78,7 @@ Arch 2014年度 秋学期 輪講会
 
 ### 9. IPルーティング
 担当:phi
+[スライド (PDF)](https://web.sfc.wide.ad.jp/~phi/ARCH/rinko1.pdf)
 
 2015/1/8
 --------

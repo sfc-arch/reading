@@ -12,8 +12,9 @@ Arch 2014年度 秋学期 輪講会
 
 なに食べるか
 --------
-[ここ](https://docs.google.com/spreadsheets/d/1C_HDey8-bp7XasdJRWqxwoHGUwWtii9WKyp3z7LlxxM/edit?usp=sharing)に注文を入れましょう
-輪講前日中に入れなければ届かないと思っていて下さい
+~~[ここ](https://docs.google.com/spreadsheets/d/1C_HDey8-bp7XasdJRWqxwoHGUwWtii9WKyp3z7LlxxM/edit?usp=sharing)に注文を入れましょう
+輪講前日中に入れなければ届かないと思っていて下さい~~
+※今後は使わない予定です
 
 参加者
 --------

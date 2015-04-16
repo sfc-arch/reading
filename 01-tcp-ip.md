@@ -42,6 +42,7 @@ Arch 2014年度 秋学期 輪講会
 --------
 ### 2. リンク層
 担当:hoshikyu
+[スライド(slideshare)](http://www.slideshare.net/Restar9/ss-47056963)
 
 ### 3. IP:インターネット・プロトコルその1
 担当:shunkin

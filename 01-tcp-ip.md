@@ -52,7 +52,7 @@ Arch 2014年度 秋学期 輪講会
 --------
 ### 3. IP:インターネット・プロトコルその2
 担当:naohiro
-[スライド(pdf)](http://web.sfc.wide.ad.jp/~naohiro/tcp-ip.pdf)
+[スライド(pdf)](http://web.sfc.wide.ad.jp/~naohiro/tcp_ip/tcp-ip.pdf)
 
 
 ### 4. ARP:アドレス解決プロトコル

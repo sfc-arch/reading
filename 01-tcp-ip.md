@@ -115,12 +115,15 @@ Arch 2014年度 秋学期 輪講会
 担当:pasora
 [スライド(slideshare)](http://www.slideshare.net/pasora1/arch-tcpip-bootp)
 
----
-
+2015/04/23
+--------
 ### 17. TCP:トランスミッション・コントロール・プロトコル
-担当:pasora
+担当:pasora [スライド(PDF)](http://web.sfc.wide.ad.jp/~pasora/rg/tcp_ip_17.pdf)
 ### 18. TCPコネクションの確立と終了
-担当:pasora, demmy
+担当:pasora [スライド(PDF)](http://web.sfc.wide.ad.jp/~pasora/rg/tcp_ip_18_1-5.pdf)  
+担当:demmy
+
+---
 ### 19. TCPインタラクティブ・データ・フロー
 担当:seibe
 ### 20. TCPバルク・データ・フロー

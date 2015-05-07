@@ -123,11 +123,15 @@ Arch 2014年度 秋学期 輪講会
 担当:pasora [スライド(PDF)](http://web.sfc.wide.ad.jp/~pasora/rg/tcp_ip_18_1-5.pdf)  
 担当:demmy
 
----
+2015/05/07
+--------
 ### 19. TCPインタラクティブ・データ・フロー
-担当:seibe
+担当:seibe [スライド (PDF)](https://web.sfc.wide.ad.jp/~seibe/tcp-ip/150507_TCP-IP%e8%bc%aa%e8%ac%9b%e4%bc%9a.pdf)
+
 ### 20. TCPバルク・データ・フロー
 担当:shunkin
+
+---
 ### 21. TCPのタイムアウトと再転送
 ### 22. TCP持続タイマー
 ### 23. TCPキープアライブ・タイマー

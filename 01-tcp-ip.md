@@ -20,7 +20,7 @@ Arch 2014年度 秋学期 輪講会
 --------
 * seibe
 * demmy
-* hoshikyu
+* ~~hoshikyu~~
 * kucats
 * pasora
 * miyukki

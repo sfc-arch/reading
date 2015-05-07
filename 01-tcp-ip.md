@@ -121,7 +121,7 @@ Arch 2014年度 秋学期 輪講会
 担当:pasora [スライド(PDF)](http://web.sfc.wide.ad.jp/~pasora/rg/tcp_ip_17.pdf)
 ### 18. TCPコネクションの確立と終了
 担当:pasora [スライド(PDF)](http://web.sfc.wide.ad.jp/~pasora/rg/tcp_ip_18_1-5.pdf)  
-担当:demmy
+担当:demmy [スライド(PDF)](http://web.sfc.wide.ad.jp/~demmy/vol1/chapter18.pdf)
 
 2015/05/07
 --------

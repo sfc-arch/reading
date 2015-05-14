@@ -87,10 +87,11 @@ Arch 2014年度 秋学期 輪講会
 --------
 ### 10. ダイナミック・ルーティング・プロトコル
 担当:kucats
+[スライド（PDF）](http://config.kuc.jp/pub/lab/tcpip/10_DynamicRouting.pdf)
 
 ### 12. ブロードキャストとマルチキャスト
 担当:kucats
-
+[スライド（PDF）](http://config.kuc.jp/pub/lab/tcpip/12_Broadcast-Multicast.pdf)
 2015/01/15
 --------
 ### 13. IGMP:インターネット・グループ・マネジメント・プロトコル

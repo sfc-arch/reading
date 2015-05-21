@@ -147,7 +147,7 @@ Arch 2014年度 秋学期 輪講会
 ### 25. SNMP:シンプル・ネットワーク・マネジメント・プロトコル
 担当:gucchan
 ### 26. TelnetとRlogin:リモートログイン
-担当:aky
+担当:aky [スライド (PDF)](http://web.sfc.wide.ad.jp/~aky/telnet.pdf)
 2015/05/28
 ---------
 ### 27. FTP:ファイル転送プロトコル

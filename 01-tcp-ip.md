@@ -120,6 +120,7 @@ Arch 2014年度 秋学期 輪講会
 --------
 ### 17. TCP:トランスミッション・コントロール・プロトコル
 担当:pasora [スライド(PDF)](http://web.sfc.wide.ad.jp/~pasora/rg/tcp_ip_17.pdf)
+
 ### 18. TCPコネクションの確立と終了
 担当:pasora [スライド(PDF)](http://web.sfc.wide.ad.jp/~pasora/rg/tcp_ip_18_1-5.pdf)  
 担当:demmy [スライド(PDF)](http://web.sfc.wide.ad.jp/~demmy/vol1/chapter18.pdf)
@@ -140,23 +141,28 @@ Arch 2014年度 秋学期 輪講会
 担当:cookie
 ### 23. TCPキープアライブ・タイマー
 担当:cookie
+
 2015/05/21
 ---------
 ### 24. TCPのその他の機能と性能
-担当:miyukki
+担当:miyukki [スライド(PDF)](http://web.sfc.wide.ad.jp/~miyukki/rg/20150521-tcp-ip.pdf)
+
 ### 25. SNMP:シンプル・ネットワーク・マネジメント・プロトコル
 担当:gucchan
+
 ### 26. TelnetとRlogin:リモートログイン
 担当:aky [スライド (PDF)](http://web.sfc.wide.ad.jp/~aky/telnet.pdf)
+
 2015/05/28
 ---------
 ### 27. FTP:ファイル転送プロトコル
 担当:miyukki
+
 ### 28. SMTP:単純メール転送プロトコル
 担当:demmy
-いつぞや
----------
+
 ### 29. NFS:ネットワーク・ファイル・システム
 担当:kucats
+
 ### 30. その他のTCP/IPアプリケーション
 担当:pasora

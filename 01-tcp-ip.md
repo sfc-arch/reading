@@ -156,7 +156,7 @@ Arch 2014年度 秋学期 輪講会
 2015/05/28
 ---------
 ### 27. FTP:ファイル転送プロトコル
-担当:miyukki
+担当:miyukki [スライド（PDF）](http://web.sfc.wide.ad.jp/~miyukki/rg/20150528.pdf)
 
 ### 28. SMTP:単純メール転送プロトコル
 担当:demmy

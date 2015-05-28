@@ -167,4 +167,4 @@ Arch 2014年度 秋学期 輪講会
 担当:kucats
 
 ### 30. その他のTCP/IPアプリケーション
-担当:pasora
+担当:pasora [スライド(slideshare)](http://www.slideshare.net/pasora1/tcpip-48715801)

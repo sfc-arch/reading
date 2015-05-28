@@ -137,10 +137,12 @@ Arch 2014年度 秋学期 輪講会
 ---------
 ### 21. TCPのタイムアウトと再転送
 担当:rhenium
+
 ### 22. TCP持続タイマー
-担当:cookie
+担当:cookie[スライド(PDF)](http://web.sfc.wide.ad.jp/~cookie/tcptimer.pdf)
+
 ### 23. TCPキープアライブ・タイマー
-担当:cookie
+担当:cookie [スライド(PDF)](http://web.sfc.wide.ad.jp/~cookie/keepalive.pdf)
 
 2015/05/21
 ---------

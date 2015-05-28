@@ -131,7 +131,7 @@ Arch 2014年度 秋学期 輪講会
 担当:seibe [スライド (PDF)](https://web.sfc.wide.ad.jp/~seibe/tcp-ip/150507_TCP-IP%e8%bc%aa%e8%ac%9b%e4%bc%9a.pdf)
 
 ### 20. TCPバルク・データ・フロー
-担当:shunkin
+担当:shunkin [スライド(PDF)](http://web.sfc.wide.ad.jp/~shunkin/Chapter20.pdf)
 
 2015/05/14
 ---------

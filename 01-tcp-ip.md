@@ -161,7 +161,7 @@ Arch 2014年度 秋学期 輪講会
 担当:miyukki [スライド（PDF）](http://web.sfc.wide.ad.jp/~miyukki/rg/20150528.pdf)
 
 ### 28. SMTP:単純メール転送プロトコル
-担当:demmy
+担当:demmy [スライド (HTML) ](http://web.sfc.wide.ad.jp/~demmy/vol1/chapter28/)
 
 ### 29. NFS:ネットワーク・ファイル・システム
 担当:kucats

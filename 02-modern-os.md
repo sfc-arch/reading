@@ -22,7 +22,6 @@ Arch 2015年度 秋学期 輪講会
 * cookie
 * gucchan
 * phi
-* aky
 * yatty
 * gentam
 * makomori

@@ -27,6 +27,7 @@ Arch 2015年度 秋学期 輪講会
 * makomori
 * u-dory
 * itochan
+* naohiro
 
 ----
 

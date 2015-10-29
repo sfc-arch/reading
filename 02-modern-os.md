@@ -24,7 +24,6 @@ Arch 2015年度 秋学期 輪講会
 * phi
 * yatty
 * gentam
-* makomori
 * u-dory
 * itochan
 * naohiro

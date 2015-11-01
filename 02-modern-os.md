@@ -31,7 +31,9 @@ Arch 2015年度 秋学期 輪講会
 -----
 
 ## 2015/10/29
-担当: pasora
+担当: pasora  
+[スライド(pdf, rg 標準)](http://web.sfc.wide.ad.jp/~pasora/rg/modern-os/pptx/1_1.pdf)  
+[スライド(slideshare)](http://www.slideshare.net/pasora1/modern-operating-system-11)  
 ### 1. オペレーティングシステムの概要
 #### 1.1 オペレーティングシステムとは何か
 #### 1.2 オペレーティングシステムの歴史

@@ -11,7 +11,7 @@ Arch 2016年度 輪講会
 
 参加者
 --------
-mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itochan, aky, usk ,miyukki, pasora
+mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itochan, aky, usk ,miyukki, pasora, xxxhal, yatty, macchan, sora
 
 
 ## 2016/05/12

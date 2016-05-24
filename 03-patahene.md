@@ -41,7 +41,7 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 #### 2.3 コンピュータ・ハードウェアのオペランド
 #### 2.4 符号付き数と符号なし数
 担当: yatty
-[スライド](http://web.sfc.keio.ac.jp/~s15904sy/reading/patahene2.pdf)
+[スライド(2.5~2.8)](http://web.sfc.keio.ac.jp/~s15904sy/reading/patahene2.pdf)
 #### 2.5 コンピュータ内での命令の表現
 #### 2.6 論理演算
 #### 2.7 条件判定用の命令

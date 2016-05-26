@@ -59,6 +59,8 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 #### 2.14 配列とポインタの待避
 
 --------
+
+担当: joe
 #### 2.15 高度な話題:CのコンパイルおよびインタープリタによるJavaの実行
 #### 2.16 実例:ARMv7(32ビット)の命令
 #### 2.17 実例:x86の命令
@@ -67,6 +69,8 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 #### 2.20 おわりに
 #### 2.21 歴史展望と参考文献
 #### 2.22 演習問題
+
+--------
 
 ### 3. コンピュータにおける算術演算
 #### 3.1 はじめに

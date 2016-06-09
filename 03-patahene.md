@@ -56,7 +56,8 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 
 2016/06/09
 --------
-担当:itochan
+担当:itochan  
+[スライド(2.12-2.14) rg standard](http://web.sfc.wide.ad.jp/~itochan/rg/arch/reading/patahene/patahene_2_12.pdf)
 #### 2.12 プログラムの翻訳と起動
 #### 2.13 Cプログラムの包括的な例題解説
 #### 2.14 配列とポインタの待避

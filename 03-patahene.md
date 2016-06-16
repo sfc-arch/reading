@@ -75,6 +75,7 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 #### 2.22 演習問題
 
 担当: phi
+[slide pdf](http://web.sfc.wide.ad.jp/~phi/ARCH/calc1.pdf)
 ### 3. コンピュータにおける算術演算
 #### 3.1 はじめに
 #### 3.2 加算と減算

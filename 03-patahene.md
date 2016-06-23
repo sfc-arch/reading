@@ -105,9 +105,14 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 
 #### 4.5 パイプライン処理の概要
 #### 4.6 データパスのパイプライン化と制御
+shunkin
 #### 4.7 データ・ハザード:フォワーディングとストール
 #### 4.8 制御ハザード
 #### 4.9 例外
+gentam
+
+--------
+
 #### 4.10 命令を通じた並列処理
 #### 4.11 実例:ARM Cortex-A8およびIntel Core i7のパイプライン
 #### 4.12 高速化:命令レベル並列性を応用した行列の乗算

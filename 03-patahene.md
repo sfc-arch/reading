@@ -94,7 +94,8 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 #### 3.11 歴史展望と参考文献
 #### 3.12 演習問題
 
-担当: usk
+担当: usk  
+[スライド(4.1-4.4)](http://web.sfc.wide.ad.jp/~usk/reading/patahene4.pdf)
 ### 4. プロセッサ
 #### 4.1 はじめに
 #### 4.2 論理設計とクロック方式

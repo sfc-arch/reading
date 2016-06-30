@@ -110,7 +110,8 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 #### 4.5 パイプライン処理の概要
 #### 4.6 データパスのパイプライン化と制御
 
-担当: gentam
+担当: gentam  
+[スライド4.7-4.9](http://web.sfc.wide.ad.jp/~gentam/reading/16Spring_CA4.7-4.9.pdf)  
 #### 4.7 データ・ハザード:フォワーディングとストール
 #### 4.8 制御ハザード
 #### 4.9 例外

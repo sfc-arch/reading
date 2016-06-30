@@ -85,6 +85,7 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 2016/06/23
 --------
 担当: aky
+[すらいど](https://www.dropbox.com/s/d31s1i4kc9379ln/20160623.pdf?dl=0)
 #### 3.5 浮動小数点演算
 #### 3.6 並列処理とコンピュータの算術演算:半語並列性
 #### 3.7 実例:x86におけるストリーミングSIMD拡張およびアドバンスト・ベクトル・エクステンション

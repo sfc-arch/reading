@@ -104,6 +104,7 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 
 2016/06/30
 --------
+[スライド4.5-4.6](http://web.sfc.wide.ad.jp/~shunkin/pipeline.pdf)
 担当: shunkin
 #### 4.5 パイプライン処理の概要
 #### 4.6 データパスのパイプライン化と制御

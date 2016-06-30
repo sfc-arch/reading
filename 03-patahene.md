@@ -102,15 +102,16 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 #### 4.3 データパスの構築
 #### 4.4 単純な実行方式
 
+2016/06/30
 --------
-
+担当: shunkin
 #### 4.5 パイプライン処理の概要
 #### 4.6 データパスのパイプライン化と制御
-shunkin
+
+担当: gentam
 #### 4.7 データ・ハザード:フォワーディングとストール
 #### 4.8 制御ハザード
 #### 4.9 例外
-gentam
 
 --------
 

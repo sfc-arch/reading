@@ -150,7 +150,7 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 
 2016/10/13
 --------
-担当: u-dory, itochan
+担当: pasora
 #### 5.7 仮想記憶(アドレス変換の高速化:TLB〜最後)
 
 担当: joe
@@ -158,6 +158,8 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 #### 5.9 有限状態機械を用いた単純なキャッシュの制御
 #### 5.10 並列処理と記憶階層:キャッシュ・コヒーレンス
 #### 5.11 並列処理と記憶階層:RAID
+
+--------
 
 担当: shunkin
 #### 5.12 高度な話題:キャッシュ・コントローラの実現

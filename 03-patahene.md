@@ -143,19 +143,23 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 #### 5.5 信頼性の高い記憶階層
 #### 5.6 仮想マシン
 
-大輪講大会 2016/09/22
+~~大輪講大会 2016/09/22~~2016/10/06
 --------
-
-担当: shunkin
+担当: itochan, u-dory
 #### 5.7 仮想記憶(最初〜ページ・フォールト)
-担当: u-dory
+
+2016/10/13
+--------
+担当: u-dory, itochan
 #### 5.7 仮想記憶(アドレス変換の高速化:TLB〜最後)
+
 担当: joe
 #### 5.8 記憶階層間に共通する概念
 #### 5.9 有限状態機械を用いた単純なキャッシュの制御
 #### 5.10 並列処理と記憶階層:キャッシュ・コヒーレンス
 #### 5.11 並列処理と記憶階層:RAID
-担当: itochan
+
+担当: shunkin
 #### 5.12 高度な話題:キャッシュ・コントローラの実現
 #### 5.13 実例:ARM Cortex-A8とIntel Core i7の記憶階層
 #### 5.14 高速化:キャッシュのブロック化を応用した行列の乗算
@@ -165,6 +169,7 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 #### 5.18 演習問題
 
 ### 6. クライアントからクラウドまでの並列プロセッサ
+
 担当: aky
 #### 6.1 はじめに
 #### 6.2 並列処理プログラム作成の困難さ
@@ -172,6 +177,7 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 #### 6.4 ハードウェア・マルチスレッディング
 #### 6.5 マルチコアをはじめとする共有記憶型マルチプロセッサ
 #### 6.6 グラフィックス処理ユニットの概要
+
 担当: usk
 #### 6.7 クラスタ, ウェアハウス・スケール・コンピュータおよびその他のメッセージ交換型マルチプロセッサ
 #### 6.8 マルチプロセッサ・ネットワーク・トポロジの概要
@@ -185,6 +191,7 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 #### 6.16 演習問題
 
 ### A. アセンブラ、リンカ、SPIMシミュレータ
+
 担当: miyukki
 #### A.1 はじめに
 #### A.2 アセンブラ
@@ -192,6 +199,7 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 #### A.4 ロード
 #### A.5 主記憶領域の使用量
 #### A.6 手続き呼出し規約
+
 担当: pasora
 #### A.7 例外と割込み
 #### A.8 入力と出力
@@ -201,6 +209,7 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 #### A.12 演習問題
 
 ### B. 論理設計の基礎
+
 担当: xxxhal
 #### B.1 はじめに
 #### B.2 ゲート、真理値表、論理式
@@ -208,6 +217,7 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 #### B.4 ハードウェア記述言語の使用
 #### B.5 基本的な算術論理演算ユニットの作成
 #### B.6 加算の高速化:桁上げの先見
+
 担当: yatty
 #### B.7 クロック
 #### B.8 メモリ要素:フリップ・フロップとラッチとレジスタ

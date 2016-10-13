@@ -180,7 +180,7 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 #### 6.5 マルチコアをはじめとする共有記憶型マルチプロセッサ
 #### 6.6 グラフィックス処理ユニットの概要
 
-担当: usk
+担当: miyukki
 #### 6.7 クラスタ, ウェアハウス・スケール・コンピュータおよびその他のメッセージ交換型マルチプロセッサ
 #### 6.8 マルチプロセッサ・ネットワーク・トポロジの概要
 #### 6.9 外部世界との通信:クラスタ・ネットワーキング
@@ -194,7 +194,7 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 
 ### A. アセンブラ、リンカ、SPIMシミュレータ
 
-担当: miyukki
+担当: usk
 #### A.1 はじめに
 #### A.2 アセンブラ
 #### A.3 リンカ

@@ -159,8 +159,8 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 #### 5.10 並列処理と記憶階層:キャッシュ・コヒーレンス
 #### 5.11 並列処理と記憶階層:RAID
 
---------
-
+2016/10/20
+----------
 担当: shunkin
 #### 5.12 高度な話題:キャッシュ・コントローラの実現
 #### 5.13 実例:ARM Cortex-A8とIntel Core i7の記憶階層
@@ -176,6 +176,9 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 #### 6.1 はじめに
 #### 6.2 並列処理プログラム作成の困難さ
 #### 6.3 SISD, MIMD, SIMD, SPMD, ベクトル
+
+2016/10/27
+----------
 #### 6.4 ハードウェア・マルチスレッディング
 #### 6.5 マルチコアをはじめとする共有記憶型マルチプロセッサ
 #### 6.6 グラフィックス処理ユニットの概要
@@ -191,6 +194,9 @@ mochan, zef, ogura, nef, mihiro, phi, shunkin, tatsu, u-dory, joe, syaro, itocha
 #### 6.14 おわりに
 #### 6.15 歴史展望と参考文献
 #### 6.16 演習問題
+
+yyyy/mm/dd
+----------
 
 ### A. アセンブラ、リンカ、SPIMシミュレータ
 
